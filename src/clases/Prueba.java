@@ -12,4 +12,8 @@ public class Prueba {
         
        
     }
+    
+    public static void modificar(){
+        System.out.println("Modificando con git");
+    }
 }
